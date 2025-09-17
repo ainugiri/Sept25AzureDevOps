@@ -121,3 +121,22 @@ Track the changes to code
         a. Cloud-based Git repository
         b. Integration with Azure DevOps services
         c. Collaboration features - pull requests, code reviews, branch policies
+
+CI/CD - Continuous Integration and Continuous Deployment
+        jenkins - CICD tool, open source, plugins
+        integration server tool
+        - collect code from repo, build, Test, Deploy
+        - freestyle job, maven job, pipeline job
+    
+    10 developers -> each developer working on the object
+    -> if object is ready, push to repo
+    
+
+    Azure free account
+    12 months free popular services
+    Compute - Linux, Windows VM, App Service
+    Storage - Blob, File, Disk
+    Database - SQL Database, Cosmos DB
+
+    $200 credit for first 30 days
+    
